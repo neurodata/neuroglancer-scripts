@@ -64,7 +64,7 @@ setuptools.setup(
         "pillow >= 1.1.6",
         "requests >= 2",
         "scikit-image",  # TODO use pillow instead
-        "tqdm >= 4",
+        "tqdm == 4.20.0",
     ],
     python_requires="~= 3.4",
     extras_require={
