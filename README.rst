@@ -19,7 +19,8 @@ Tools for converting 3D images to the Neuroglancer pre-computed format.
 .. image:: https://readthedocs.org/projects/neuroglancer-scripts/badge/?version=latest
    :target: http://neuroglancer-scripts.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
-
+   
+.. image:: https://img.shields.io/pypi/dm/neuroglancer-scripts.svg
 
 Installation
 ------------
